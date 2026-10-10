@@ -1,1 +1,5 @@
-# CBAE-Supporting-Results
+Supporting numerical results for Diagnosing Temporal Cross-Project Evaluation Gaps with Matched Controls, Rahat Izhar.
+
+CSV files are retained without numerical changes from the supplied experiment outputs. gitbugs/ and apachejit/ contain the original composition/control summaries and audits. additional_analyses/ contains matching sensitivity, resolution-time sensitivity and synthetic summaries. The 352-fit label-availability analysis and 496-fit matching analysis use different reference populations and must not be pooled as repetitions of one experiment. Legacy Residual_Temporal_Effect/RBSE labels denote descriptive residual boundary-selection contrasts, not identified causal effects.
+
+This archive contains numerical results only. It does not contain research code, raw issue text, saved per-fit predictions, or complete row-membership files. These summaries support arithmetic inspection; they are not a complete independent-retraining archive. Public raw-data sources, preprocessing, exclusions and experimental settings are specified in the manuscript.

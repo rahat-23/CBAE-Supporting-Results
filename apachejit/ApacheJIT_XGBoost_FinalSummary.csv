@@ -1,0 +1,2 @@
+Model,N_Projects,Mean_Full_Macro_F1,Mean_Matched_Macro_F1,Mean_Composed_Macro_F1,Mean_Total_Composition_Effect,Mean_Residual_Temporal_Effect,Residual_Positive_Projects,Residual_Negative_Projects
+XGBoost,14,0.6922533465189258,0.6863205139801727,0.6664363303295284,0.02581701618939731,0.019884183650644188,13,1
